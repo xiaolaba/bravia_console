@@ -27,7 +27,7 @@ This project relies on using a shared key which is setup manually on the TV one 
 Instructions to setup PSK (Pre-Shared Key) on TV:  
 1. Navigate to: [Settings] -> [Network] -> [Home Network Setup] -> [IP Control]  
 2. Set [Authentication] to [Normal and Pre-Shared Key]  
-3. There should be a new menu entry [Pre-Shared Key]. Set it to '000'  
+3. There should be a new menu entry [Pre-Shared Key]. Set it to '0000'  
 Note: To modify the PSK in this console enter 'set option psk <value>' 
 
 ## Usage
