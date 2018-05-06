@@ -1,5 +1,8 @@
 ## python 3.6.5, win10, Sony KD-55X9000E, it works.
 
+download python, https://www.python.org/downloads/
+
+
 
 
 
