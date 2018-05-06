@@ -1,3 +1,8 @@
+## python 3.6.5, win10, Sony KD-55X9000E, it works.
+
+
+
+
 ## Overview 
 Bravia Console is a simple console interface written in Python to send remote control commands to a Sony Bravia TV.
 
