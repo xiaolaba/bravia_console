@@ -1,3 +1,10 @@
+## Sony Simple IP Control Protocol for BRAVIA.pdf  
+copy of the IP procotol not test yet.
+
+![Sony Simple IP Control Protocol for BRAVIA.pdf](Sony Simple IP Control Protocol for BRAVIA.pdf)  
+
+
+
 ## python 3.6.5, win10, Sony KD-55X9000E, it works.
 
 download python, https://www.python.org/downloads/
