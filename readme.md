@@ -1,6 +1,6 @@
 ## Sony Simple IP Control Protocol for BRAVIA.pdf  
-copy of the IP procotol not test yet.
-2019-JAN-01, update,
+copy of the IP procotol not test yet.  
+2019-JAN-01, update,  
 ![Sony Simple IP Control Protocol for BRAVIA.pdf](Sony Simple IP Control Protocol for BRAVIA.pdf)  
 .
 .
